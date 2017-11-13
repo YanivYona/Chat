@@ -1,0 +1,10 @@
+2017-08-10 15:30:06,187  INFO [main] - test.pack.Log4J.ParsingXM 85 - The XML has parsed
+2017-08-10 15:30:06,271  INFO [main] - test.pack.Log4J.CreateTable 60 - The Table information has updated
+2017-08-10 15:30:12,300 ERROR [AWT-EventQueue-0] - test.pack.Log4J.actionPerformed 154 - empty word
+2017-08-10 15:30:13,826  INFO [AWT-EventQueue-0] - test.pack.Log4J.ParsingXM 85 - The XML has parsed
+2017-08-10 15:30:13,829  INFO [AWT-EventQueue-0] - test.pack.Log4J.CreateTable 60 - The Table information has updated
+2017-08-10 15:30:13,829  INFO [AWT-EventQueue-0] - test.pack.Log4J.actionPerformed 193 - refreshed
+2017-08-10 15:30:15,941 ERROR [AWT-EventQueue-0] - test.pack.Log4J.actionPerformed 154 - empty word
+2017-08-10 15:30:17,965 ERROR [AWT-EventQueue-0] - test.pack.Log4J.actionPerformed 154 - empty word
+2017-08-10 15:30:24,692 ERROR [AWT-EventQueue-0] - test.pack.Log4J.actionPerformed 161 - not a digit
+2017-08-10 15:30:30,157  INFO [AWT-EventQueue-0] - test.pack.Log4J.calc 54 - 12.0 units of Canada = 75.1169176262179 units of Norway

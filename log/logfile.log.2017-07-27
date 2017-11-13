@@ -1,0 +1,96 @@
+ 2017-07-25 17:11:22,003  INFO [main] - test.pack.Log4J.main 10 - Test Message
+2017-07-25 17:20:27,261  INFO [main] - test.pack.Log4J.main 59 - kaki
+2017-07-25 17:22:46,558  INFO [main] - test.pack.Log4J.main 59 - kaki
+2017-07-25 17:27:44,864  INFO [AWT-EventQueue-0] - test.pack.Log4J.calc 51 - 7.681876883340507 USA to Great Britain
+2017-07-25 17:36:09,487  INFO [AWT-EventQueue-0] - test.pack.Log4J.calc 51 - Norway to South Africa = 1.62992700729927 (1.0units)
+2017-07-25 17:37:42,108  INFO [AWT-EventQueue-0] - test.pack.Log4J.calc 51 - Denmark to Australia = 197.6177011169235 (1000.0units )
+2017-07-25 17:38:25,179  INFO [AWT-EventQueue-0] - test.pack.Log4J.calc 51 - Jordan to Japan = 157.07507413766194 (1.0 units)
+2017-07-25 17:41:55,006  INFO [AWT-EventQueue-0] - test.pack.Log4J.calc 51 - 1501.0 units of Jordan = 235769.68628063056 units of Japan
+2017-07-25 18:35:40,812  INFO [main] - test.pack.Log4J.ParsingXM 82 - The XML has parsed
+2017-07-25 18:35:40,905  INFO [main] - test.pack.Log4J.CreateTable 61 - The Table information has updated
+2017-07-25 18:36:03,986  INFO [AWT-EventQueue-0] - test.pack.Log4J.ParsingXM 82 - The XML has parsed
+2017-07-25 18:36:03,987  INFO [AWT-EventQueue-0] - test.pack.Log4J.CreateTable 61 - The Table information has updated
+2017-07-25 18:36:03,988  INFO [AWT-EventQueue-0] - test.pack.Log4J.actionPerformed 164 - The information has updated
+2017-07-25 18:37:07,308  INFO [main] - test.pack.Log4J.ParsingXM 82 - The XML has parsed
+2017-07-25 18:37:07,395  INFO [main] - test.pack.Log4J.CreateTable 61 - The Table information has updated
+2017-07-25 18:37:14,374  INFO [AWT-EventQueue-0] - test.pack.Log4J.calc 51 - 1.0 units of Canada = 89.00889651943187 units of Japan
+2017-07-25 18:37:18,591  INFO [AWT-EventQueue-0] - test.pack.Log4J.calc 51 - 1.0 units of Canada = 6.384684281236005 units of Norway
+2017-07-25 18:37:18,592  INFO [AWT-EventQueue-0] - test.pack.Log4J.calc 51 - 1.0 units of Canada = 6.384684281236005 units of Norway
+2017-07-25 18:37:18,945  INFO [AWT-EventQueue-0] - test.pack.Log4J.calc 51 - 1.0 units of Canada = 6.384684281236005 units of Norway
+2017-07-25 18:37:22,597  INFO [AWT-EventQueue-0] - test.pack.Log4J.ParsingXM 82 - The XML has parsed
+2017-07-25 18:37:22,599  INFO [AWT-EventQueue-0] - test.pack.Log4J.CreateTable 61 - The Table information has updated
+2017-07-25 18:37:22,599  INFO [AWT-EventQueue-0] - test.pack.Log4J.actionPerformed 164 - refreshed
+2017-07-25 18:40:37,731  INFO [main] - test.pack.Log4J.ParsingXM 82 - The XML has parsed
+2017-07-25 18:40:37,815  INFO [main] - test.pack.Log4J.CreateTable 61 - The Table information has updated
+2017-07-25 18:41:30,062  INFO [AWT-EventQueue-0] - test.pack.Log4J.calc 51 - 5.0 units of Denmark = 0.6723345919815292 units of EMU
+2017-07-25 18:41:35,866  INFO [AWT-EventQueue-0] - test.pack.Log4J.calc 51 - -5.0 units of Denmark = -0.6723345919815292 units of EMU
+2017-07-25 18:46:48,871  INFO [main] - test.pack.Log4J.ParsingXM 82 - The XML has parsed
+2017-07-25 18:46:48,967  INFO [main] - test.pack.Log4J.CreateTable 61 - The Table information has updated
+2017-07-25 18:47:20,258  INFO [main] - test.pack.Log4J.ParsingXM 82 - The XML has parsed
+2017-07-25 18:47:20,350  INFO [main] - test.pack.Log4J.CreateTable 61 - The Table information has updated
+2017-07-25 18:47:25,948 ERROR [AWT-EventQueue-0] - test.pack.Log4J.actionPerformed 152 - errrrorr
+2017-07-25 18:48:41,728  INFO [main] - test.pack.Log4J.ParsingXM 82 - The XML has parsed
+2017-07-25 18:48:41,824  INFO [main] - test.pack.Log4J.CreateTable 61 - The Table information has updated
+2017-07-25 18:48:47,972 ERROR [AWT-EventQueue-0] - test.pack.Log4J.actionPerformed 152 - errrrorr
+2017-07-25 18:54:35,865  INFO [main] - test.pack.Log4J.ParsingXM 82 - The XML has parsed
+2017-07-25 18:54:35,960  INFO [main] - test.pack.Log4J.CreateTable 61 - The Table information has updated
+2017-07-25 18:54:45,006  INFO [AWT-EventQueue-0] - test.pack.Log4J.calc 51 - 4342341.0 units of null = 0.0 units of null
+2017-07-25 18:54:58,840 ERROR [AWT-EventQueue-0] - test.pack.Log4J.actionPerformed 157 - not a digit
+2017-07-25 18:54:58,841  INFO [AWT-EventQueue-0] - test.pack.Log4J.calc 51 - -54353.0 units of null = 0.0 units of null
+2017-07-25 18:55:31,641 ERROR [AWT-EventQueue-0] - test.pack.Log4J.actionPerformed 152 - empty word
+2017-07-25 18:55:31,641 ERROR [AWT-EventQueue-0] - test.pack.Log4J.actionPerformed 157 - not a digit
+2017-07-25 19:03:51,426  INFO [main] - test.pack.Log4J.ParsingXM 82 - The XML has parsed
+2017-07-25 19:03:51,514  INFO [main] - test.pack.Log4J.CreateTable 61 - The Table information has updated
+2017-07-25 19:03:58,390 ERROR [AWT-EventQueue-0] - test.pack.Log4J.actionPerformed 153 - empty word
+2017-07-25 19:03:58,391 ERROR [AWT-EventQueue-0] - test.pack.Log4J.actionPerformed 158 - not a digit
+2017-07-25 19:03:58,391 ERROR [AWT-EventQueue-0] - test.pack.Log4J.actionPerformed 163 - non selected currency
+2017-07-25 19:08:40,410  INFO [main] - test.pack.Log4J.ParsingXM 82 - The XML has parsed
+2017-07-25 19:08:40,522  INFO [main] - test.pack.Log4J.CreateTable 61 - The Table information has updated
+2017-07-25 19:10:12,182  INFO [main] - test.pack.Log4J.ParsingXM 82 - The XML has parsed
+2017-07-25 19:10:12,400  INFO [main] - test.pack.Log4J.CreateTable 61 - The Table information has updated
+2017-07-25 19:10:25,037  INFO [main] - test.pack.Log4J.ParsingXM 82 - The XML has parsed
+2017-07-25 19:10:25,191  INFO [main] - test.pack.Log4J.CreateTable 61 - The Table information has updated
+2017-07-25 23:09:59,559  INFO [main] - test.pack.Log4J.ParsingXM 82 - The XML has parsed
+2017-07-25 23:09:59,644  INFO [main] - test.pack.Log4J.CreateTable 61 - The Table information has updated
+2017-07-25 23:11:21,708  INFO [AWT-EventQueue-0] - test.pack.Log4J.calc 51 - 2.0 units of Canada = 178.01779303886374 units of Japan
+2017-07-25 23:12:02,052  INFO [AWT-EventQueue-0] - test.pack.Log4J.ParsingXM 82 - The XML has parsed
+2017-07-25 23:12:02,055  INFO [AWT-EventQueue-0] - test.pack.Log4J.CreateTable 61 - The Table information has updated
+2017-07-25 23:12:02,055  INFO [AWT-EventQueue-0] - test.pack.Log4J.actionPerformed 180 - refreshed
+2017-07-25 23:12:39,003  INFO [AWT-EventQueue-0] - test.pack.Log4J.ParsingXM 82 - The XML has parsed
+2017-07-25 23:12:39,006  INFO [AWT-EventQueue-0] - test.pack.Log4J.CreateTable 61 - The Table information has updated
+2017-07-25 23:12:39,006  INFO [AWT-EventQueue-0] - test.pack.Log4J.actionPerformed 180 - refreshed
+2017-07-25 23:12:52,252  INFO [AWT-EventQueue-0] - test.pack.Log4J.calc 51 - 8.0 units of Israel - NIS = 8.0 units of Israel - NIS
+2017-07-25 23:13:20,347  INFO [main] - test.pack.Log4J.ParsingXM 82 - The XML has parsed
+2017-07-25 23:13:20,428  INFO [main] - test.pack.Log4J.CreateTable 61 - The Table information has updated
+2017-07-25 23:14:17,242  INFO [main] - test.pack.Log4J.ParsingXM 82 - The XML has parsed
+2017-07-25 23:14:17,317  INFO [main] - test.pack.Log4J.CreateTable 61 - The Table information has updated
+2017-07-25 23:15:01,917  INFO [main] - test.pack.Log4J.ParsingXM 82 - The XML has parsed
+2017-07-25 23:15:01,997  INFO [main] - test.pack.Log4J.CreateTable 61 - The Table information has updated
+2017-07-25 23:15:11,289 ERROR [AWT-EventQueue-0] - test.pack.Log4J.actionPerformed 153 - empty word
+2017-07-25 23:15:11,290 ERROR [AWT-EventQueue-0] - test.pack.Log4J.actionPerformed 158 - not a digit
+2017-07-25 23:15:11,290 ERROR [AWT-EventQueue-0] - test.pack.Log4J.actionPerformed 163 - non selected currency
+2017-07-25 23:18:31,607  INFO [main] - test.pack.Log4J.ParsingXM 82 - The XML has parsed
+2017-07-25 23:18:31,687  INFO [main] - test.pack.Log4J.CreateTable 61 - The Table information has updated
+2017-07-25 23:18:42,968  INFO [AWT-EventQueue-0] - test.pack.Log4J.calc 51 - 1.0 units of EMU = 9.545224977043159 units of Sweden
+2017-07-25 23:22:03,017  INFO [AWT-EventQueue-0] - test.pack.Log4J.ParsingXM 82 - The XML has parsed
+2017-07-25 23:22:03,020  INFO [AWT-EventQueue-0] - test.pack.Log4J.CreateTable 61 - The Table information has updated
+2017-07-25 23:22:03,021  INFO [AWT-EventQueue-0] - test.pack.Log4J.actionPerformed 180 - refreshed
+2017-07-25 23:22:05,268  INFO [AWT-EventQueue-0] - test.pack.Log4J.ParsingXM 82 - The XML has parsed
+2017-07-25 23:22:05,271  INFO [AWT-EventQueue-0] - test.pack.Log4J.CreateTable 61 - The Table information has updated
+2017-07-25 23:22:05,272  INFO [AWT-EventQueue-0] - test.pack.Log4J.actionPerformed 180 - refreshed
+2017-07-25 23:22:06,190  INFO [AWT-EventQueue-0] - test.pack.Log4J.ParsingXM 82 - The XML has parsed
+2017-07-25 23:22:06,192  INFO [AWT-EventQueue-0] - test.pack.Log4J.CreateTable 61 - The Table information has updated
+2017-07-25 23:22:06,193  INFO [AWT-EventQueue-0] - test.pack.Log4J.actionPerformed 180 - refreshed
+2017-07-25 23:29:12,936  INFO [main] - test.pack.Log4J.ParsingXM 82 - The XML has parsed
+2017-07-25 23:29:13,027  INFO [main] - test.pack.Log4J.CreateTable 59 - The Table information has updated
+2017-07-25 23:29:27,470  INFO [AWT-EventQueue-0] - test.pack.Log4J.calc 51 - 12.0 units of Japan = 0.687569307816133 units of Denmark
+2017-07-25 23:29:54,660  INFO [AWT-EventQueue-0] - test.pack.Log4J.calc 51 - 1.0 units of USA = 3.569 units of Israel - NIS
+2017-07-25 23:56:13,166  INFO [main] - test.pack.Log4J.ParsingXM 82 - The XML has parsed
+2017-07-25 23:56:13,242  INFO [main] - test.pack.Log4J.CreateTable 59 - The Table information has updated
+2017-07-25 23:57:01,721  INFO [AWT-EventQueue-0] - test.pack.Log4J.calc 51 - 1.0 units of Denmark = 0.14847173168335237 units of Switzerland
+2017-07-25 23:57:03,407  INFO [AWT-EventQueue-0] - test.pack.Log4J.calc 51 - 1.0 units of Denmark = 0.14847173168335237 units of Switzerland
+2017-07-25 23:57:06,696  INFO [AWT-EventQueue-0] - test.pack.Log4J.ParsingXM 82 - The XML has parsed
+2017-07-25 23:57:06,699  INFO [AWT-EventQueue-0] - test.pack.Log4J.CreateTable 59 - The Table information has updated
+2017-07-25 23:57:06,700  INFO [AWT-EventQueue-0] - test.pack.Log4J.actionPerformed 178 - refreshed
+2017-07-27 15:26:55,792  INFO [main] - test.pack.Log4J.ParsingXM 82 - The XML has parsed
+2017-07-27 15:26:55,913  INFO [main] - test.pack.Log4J.CreateTable 59 - The Table information has updated
